@@ -1,1 +1,1 @@
-# NewsAii
+# NewsAi
